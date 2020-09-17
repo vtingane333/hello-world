@@ -14,5 +14,11 @@ public class MainActivity extends AppCompatActivity {
         //Test Code
 
         Toast.makeText(this,"Hello World",Toast.LENGTH_LONG).show();
+
+        //Toast Added
+
+        Toast.makeText(this,"On New Branch",Toast.LENGTH_LONG).show();
+
+        //Toast Added
     }
 }
